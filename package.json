@@ -8,7 +8,7 @@
   "main-menu": {
     "i18n:MAIN_MENU.package.title/简化操作/显示|隐藏选中Node": {
       "message": "simple-handle-node:set-active",
-			"accelerator": "alt+s"
+			"accelerator": "q"
     }
   }
 }
