@@ -7,12 +7,7 @@
 
 # 使用方法
 
-安装插件后按 *S* 快捷键快速显示、隐藏选中的Node
+安装插件后按 *Q* 快捷键快速显示、隐藏选中的Node
 
-使用前:
-![layout_7|614x423, 50%](upload://gDGhGhwbSXCr28z92rdQcjgS5Rd.gif) 
-使用后：
-![layout_8|614x423, 50%](upload://xHppyObesyhWXkL8EINDwKMvht7.gif) 
-**简短实用的功能**
-![屏幕快照 2021-01-05 上午2.56.35|690x361](upload://foAOmnOPhobql56loStgyUQvGm3.png) 
-[商店免费下载](http://store.cocos.com/#/resources/detail/2599)
+ps：v2.4.8：main.js中 执行hackCode.js 未成功
+
